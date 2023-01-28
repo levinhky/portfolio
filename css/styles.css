@@ -6500,7 +6500,15 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #38ada9 !important;
+}
+
+.kydeptrai {
+  color: #38ada9;
+}
+
+.kydeptrai:hover {
+  color: var(--primary);
 }
 
 a.bg-primary:hover,
