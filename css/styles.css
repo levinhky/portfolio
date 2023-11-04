@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: #ff4d4f;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -178,7 +178,7 @@ sup {
 }
 
 a {
-  color: #38ada9  zdjvv  mlio54ri    ;
+  color: #0050b3  zdjvv  mlio54ri    ;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6500,11 +6500,11 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #38ada9 !important;
+  background-color: #0050b3 !important;
 }
 
 .kydeptrai {
-  color: #38ada9;
+  color: #0050b3;
 }
 
 .kydeptrai:hover {
@@ -10220,7 +10220,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #38ada9 !important;
+  color: #0050b3 !important;
 }
 
 a.text-primary:hover,
